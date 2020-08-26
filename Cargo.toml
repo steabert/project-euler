@@ -10,4 +10,4 @@ edition = "2018"
 
 [[bin]]
 name = "euler"
-path = "src/problem_050.rs"
+path = "src/problem_010.rs"
